@@ -38,7 +38,7 @@ Some datasets have close to 100,000 rows.
 ![](png/file_size/nrow_length_scatter_gg.png)
 
 
-This repo can help with that
+This repo can help organise files for users who want to work with the bulk file download. 
 
 
 
